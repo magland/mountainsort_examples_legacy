@@ -1,4 +1,4 @@
-**Important** This documentation pertains to the old version of MountainSort and MountainLab. Please visit https://github.com/flatironinstitute/mountainsort/blob/master/README.md for more information.
+**Important** This documentation pertains to the old version of MountainSort and MountainLab. Please visit https://github.com/flatironinstitute/mountainsort/blob/master/README.md for updated information.
 
 (Old) MountainSort Documentation
 ==========================
