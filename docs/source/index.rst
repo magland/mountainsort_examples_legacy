@@ -1,4 +1,6 @@
-MountainSort Documentation
+**Important** This documentation pertains to the old version of MountainSort and MountainLab. Please visit https://github.com/flatironinstitute/mountainsort/blob/master/README.md for more information.
+
+(Old) MountainSort Documentation
 ==========================
 
 MountainSort is spike sorting software developed by Jeremy Magland, Alex Barnett, and Leslie Greengard at the Center for Computational Biology, Flatiron Institute in close collaboration with Jason Chung and Loren Frank at UCSF department of Physiology. The algorithm was featured in
